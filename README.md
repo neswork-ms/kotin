@@ -1,0 +1,2 @@
+# kotin
+GNU License
